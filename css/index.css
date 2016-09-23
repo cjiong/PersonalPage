@@ -807,7 +807,7 @@ h1 {
 .page3 .m-phone {
 	width: 560px;
 	height: 498px;
-	position: absolute;
+	position: auto;
 	left: 50px;
 	top: 50%;
 	margin-top: -220px;
@@ -1873,7 +1873,7 @@ h1 {
 }
 
 .page3 .m-phone.works {
-	background-color: #383937
+	background-color: hsla(0, 0%, 0%, 0)
 }
 
 .page3 .m-phone.works li {
